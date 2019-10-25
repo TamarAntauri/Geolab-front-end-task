@@ -76,7 +76,14 @@ p {
 .jumbotron {
 	background-color: #fff;
 }
+.foot{
+	margin-left: 9%;
+}
 
+.foot2{
+	margin-right: 9%;
+
+}
 .post1,
 .post2 {
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
